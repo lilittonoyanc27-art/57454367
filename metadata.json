@@ -1,0 +1,6 @@
+{
+  "name": "ÁLVARO SOLER — ESCUCHA, ENTIENDE Y JUEGA",
+  "description": "Aprende español coloquial real con Álvaro Soler. Subtítulos interactivos con traducción al armenio, 12 juegos educativos, gramática en contexto y panel del profesor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
